@@ -1,0 +1,12 @@
+{
+  "name": "redem",
+  "displayName": "redem",
+  "expo": {
+    "name": "redem",
+    "slug": "redem",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
